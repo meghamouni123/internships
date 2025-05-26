@@ -1,2 +1,1 @@
-# INTERNSHIP PROVIDED BY EDUNET FOUNDATIONS
-ai powered health assistant
+
